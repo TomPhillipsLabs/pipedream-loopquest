@@ -1,6 +1,6 @@
 {
   "name": "@pipedream/loopquest",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Pipedream components for LoopQuest — human-in-the-loop review.",
   "main": "loopquest.app.mjs",
   "type": "module",
