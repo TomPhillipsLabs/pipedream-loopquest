@@ -4,7 +4,7 @@ export default {
   key: "loopquest-new-verdict",
   name: "New Verdict",
   description: "Emit an event the moment a human reviewer resolves a task — approve, flag, escalate or timeout. Use it to resume a gated action or act on a monitored review. [See the docs](https://loopquest.tomphillips.uk/docs).",
-  version: "0.1.0",
+  version: "0.0.1",
   type: "source",
   dedupe: "unique",
   props: {
